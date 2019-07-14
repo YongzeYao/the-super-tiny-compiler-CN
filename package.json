@@ -1,0 +1,7 @@
+{
+  "name": "the-super-tiny-compiler",
+  "version": "1.0.0",
+  "author": "Yongze Yao <yongzeyao@gmail.com>",
+  "license": "CC-BY-4.0",
+  "main": "./the-super-tiny-compiler.js"
+}
